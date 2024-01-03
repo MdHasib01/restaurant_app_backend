@@ -1,0 +1,329 @@
+{
+  "users": [
+    {
+      "email": "md.hasibuzzamdfasdfan001@gmail.com",
+      "password": "$2a$10$57GSIQB46JMtFeLc2X0f4en.3A.zaZtOsFltnDDAoFlpQpiaqkNBO",
+      "name": "Md Hasib",
+      "id": 1
+    },
+    {
+      "email": "md.hasibuzzaman001@gmail.com",
+      "password": "$2a$10$i8Ju/8Gc0/zY.Fl6WqpQBu0WfDEdb3nLA2khAlq6JcNR60zezzANu",
+      "name": "Md Hasib",
+      "id": 2
+    },
+    {
+      "email": "md.hasibuzzaman28@gmail.com",
+      "password": "$2a$10$cTnj2lpRr7GTs1V6P6wm5OYfCZZsRweRlqFTi9Fc6PPnq5wnGkho6",
+      "name": "Md Hasib",
+      "id": 3
+    },
+    {
+      "email": "md.hasibuzzaman01@gmail.com",
+      "password": "$2a$10$9BvtZt7r4rVz.9UBHYtrPuJn1O4wka1z80dOtT1XdajnexGgiRnWO",
+      "name": "Md Hasib",
+      "id": 4
+    },
+    {
+      "email": "md.hasibuzzaman@gmail.com",
+      "password": "$2a$10$sniPhDEIARrF0EcwXRd/UeaTW6ZZqcQcJZoQBDOYHvQgTuQt.s8RO",
+      "name": "Md Hasib",
+      "id": 5
+    },
+    {
+      "email": "md.hasib@gmail.com",
+      "password": "$2a$10$QyG9sVemMW8mVxgDZeCgh.3A2VwP/8yeg/aXeDFXafBrDBubOKfTu",
+      "name": "Md Hasib",
+      "id": 6
+    }
+  ],
+  "dishes": [
+    {
+      "id": 1,
+      "food_name": "Margherita Pizza",
+      "description": "Classic pizza topped with tomato, mozzarella, and basil",
+      "image": "images/img_pngitem41084.png",
+      "category": "Italian",
+      "price": 9.99,
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "food_name": "Pepperoni Pizza",
+      "description": "Pizza topped with pepperoni and cheese",
+      "image": "images/img_kindpng3443995.png",
+      "category": "Italian",
+      "price": 10.99,
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "food_name": "Pasta Carbonara",
+      "description": "Pasta with eggs, cheese, bacon, and black pepper",
+      "image": "images/img_kisspngaldent.png",
+      "category": "Italian",
+      "price": 12.99,
+      "quantity": 1,
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "food_name": "Caprese Salad",
+      "description": "Salad with tomatoes, mozzarella, basil, and balsamic glaze",
+      "image": "images/img_kisspngitalian.png",
+      "category": "Italian",
+      "price": 7.99,
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "food_name": "Lasagna",
+      "description": "Layered pasta dish with meat, cheese, and sauce",
+      "image": "images/img_kisspngitalian.png",
+      "category": "Italian",
+      "price": 11.99,
+      "quantity": 1,
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "food_name": "Tiramisu",
+      "description": "Classic Italian dessert made with coffee, mascarpone, and ladyfingers",
+      "image": "images/img_pngitem41084.png",
+      "category": "Italian",
+      "price": 6.99,
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "food_name": "Ravioli",
+      "description": "Pasta filled with cheese, meat, or vegetables",
+      "image": "images/img_kindpng3443995.png",
+      "category": "Italian",
+      "price": 10.49,
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "food_name": "Bruschetta",
+      "description": "Toasted bread topped with tomatoes, garlic, and basil",
+      "image": "images/img_kisspngaldent.png",
+      "category": "Italian",
+      "price": 8.49,
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "food_name": "Chicken Alfredo",
+      "description": "Pasta with creamy Alfredo sauce and grilled chicken",
+      "image": "images/img_kindpng3443995.png",
+      "category": "Italian",
+      "price": 13.99,
+      "quantity": 1,
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "food_name": "Minestrone Soup",
+      "description": "Vegetable soup with pasta or rice",
+      "image": "images/img_kisspngaldent.png",
+      "category": "Italian",
+      "price": 7.29,
+      "quantity": 1,
+      "rating": 4.4
+    },
+    {
+      "id": 11,
+      "food_name": "Calzone",
+      "description": "Folded pizza filled with cheese, meats, and vegetables",
+      "image": "images/img_pngitem41084.png",
+      "category": "Italian",
+      "price": 10.99,
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 12,
+      "food_name": "Gelato",
+      "description": "Italian ice cream with various flavors",
+      "image": "images/img_kisspngitalian.png",
+      "category": "Italian",
+      "price": 5.99,
+      "quantity": 1,
+      "rating": 4.9
+    },
+    {
+      "id": 13,
+      "food_name": "Fettuccine Alfredo",
+      "description": "Pasta in a rich and creamy Alfredo sauce",
+      "image": "images/img_pngitem41084.png",
+      "category": "Italian",
+      "price": 12.49,
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "food_name": "Cannoli",
+      "description": "Italian pastry with sweet cream filling",
+      "image": "images/img_kindpng3443995.png",
+      "category": "Italian",
+      "price": 8.99,
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "food_name": "Margherita Pasta",
+      "description": "Pasta with tomato, mozzarella, and basil",
+      "image": "images/img_kisspngaldent.png",
+      "category": "Italian",
+      "price": 11.99,
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 16,
+      "food_name": "Prosciutto and Melon",
+      "description": "Appetizer with thinly sliced prosciutto and melon",
+      "image": "images/img_kisspngitalian.png",
+      "category": "Italian",
+      "price": 9.49,
+      "quantity": 1,
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "food_name": "Italian Wedding Soup",
+      "description": "Soup with meatballs, vegetables, and pasta",
+      "image": "images/img_kindpng3443995.png",
+      "category": "Italian",
+      "price": 8.79,
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "food_name": "Ossobuco",
+      "description": "Braised veal shanks with vegetables",
+      "image": "images/img_pngitem41084.png",
+      "category": "Italian",
+      "price": 14.99,
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "food_name": "Panzanella",
+      "description": "Tuscan bread salad with tomatoes and onions",
+      "image": "images/img_kisspngaldent.png",
+      "category": "Italian",
+      "price": 9.99,
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 20,
+      "food_name": "Zuppa Toscana",
+      "description": "Tuscan-style soup with sausage, potatoes, and kale",
+      "image": "images/img_kisspngitalian.png",
+      "category": "Italian",
+      "price": 7.99,
+      "quantity": 1,
+      "rating": 4.8
+    },
+    {
+      "id": 21,
+      "food_name": "Cacio e Pepe",
+      "description": "Pasta with cheese and black pepper",
+      "image": "images/img_kisspngitalian.png",
+      "category": "Italian",
+      "price": 10.49,
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 22,
+      "food_name": "Sicilian Pizza",
+      "description": "Thick-crust pizza with various toppings",
+      "image": "images/img_pngitem41084.png",
+      "category": "Italian",
+      "price": 11.49,
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 23,
+      "food_name": "Cioppino",
+      "description": "Seafood stew in a tomato-based broth",
+      "image": "images/img_kindpng3443995.png",
+      "category": "Italian",
+      "price": 15.99,
+      "quantity": 1,
+      "rating": 4.8
+    },
+    {
+      "id": 24,
+      "food_name": "Saltimbocca",
+      "description": "Veal wrapped with prosciutto and sage",
+      "image": "images/img_kisspngaldent.png",
+      "category": "Italian",
+      "price": 12.99,
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 25,
+      "food_name": "Risotto",
+      "description": "Creamy rice dish cooked with broth and various ingredients",
+      "image": "images/img_kindpng3443995.png",
+      "category": "Italian",
+      "price": 13.49,
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 26,
+      "food_name": "Osso Buco",
+      "description": "Braised veal shanks with vegetables and broth",
+      "image": "images/img_pngitem41084.png",
+      "category": "Italian",
+      "price": 16.49,
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 27,
+      "food_name": "Cannelloni",
+      "description": "Tube-shaped pasta filled with meat or cheese",
+      "image": "images/img_kisspngaldent.png",
+      "category": "Italian",
+      "price": 10.99,
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 28,
+      "food_name": "Panna Cotta",
+      "description": "Italian dessert made with sweetened cream and gelatin",
+      "image": "images/img_kisspngitalian.png",
+      "category": "Italian",
+      "price": 7.49,
+      "quantity": 1,
+      "rating": 4.8
+    }
+  ],
+  "foodCategories": [
+    "All Categories",
+    "Italian",
+    "Indian",
+    "Salad",
+    "Burger"
+  ]
+}
